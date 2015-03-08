@@ -1,0 +1,4 @@
+#!/usr/bin/env node
+
+var Pushka = require('../lib/pushka');
+(new Pushka()).run();
